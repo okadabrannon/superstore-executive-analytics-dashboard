@@ -75,7 +75,25 @@ superstore-executive-analytics-dashboard/
 └── documentation/
 </> Markdown
 ```
+## Dashboard Screenshots
 
+### Executive Sales Overview
+![Executive Sales Overview](screenshots/01-executive-sales-overview.png)
+
+### Profitability Analysis
+![Profitability Analysis](screenshots/02-profitability-analysis.png)
+
+### Customer & Segment Analysis
+![Customer and Segment Analysis](screenshots/03-customer-segment-analysis.png)
+
+### Product & Category Analysis
+![Product and Category Analysis](screenshots/04-product-category-analysis.png)
+
+### Geographic Analysis
+![Geographic Analysis](screenshots/05-geographic-analysis.png)
+
+### Management Insights & Recommendations
+![Management Insights and Recommendations](screenshots/06-management-insights-recommendations.png)
 ## Author
 
 **Brannon Okada**
