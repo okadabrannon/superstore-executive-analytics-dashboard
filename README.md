@@ -6,6 +6,10 @@ This project is an executive-level Power BI analytics solution designed to trans
 
 The dashboard evaluates sales performance, profitability, customer behavior, product performance, discount effectiveness, and geographic trends. The report was designed to help management identify growth opportunities, detect sources of profit erosion, and make data-driven strategic decisions.
 
+## Executive Dashboard
+
+![Superstore Executive Sales Overview](screenshots/01-executive-sales-overview.png)
+
 ## Executive KPIs
 
 | KPI | Result |
